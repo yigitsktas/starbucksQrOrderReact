@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "startbucks-qr-order",
+    "slug": "startbucks-qr-order",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "startbucks-qr-order"
+}
